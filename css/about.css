@@ -1,0 +1,133 @@
+body {
+   background-image: url(../img/tienda9.jpg);
+   background-repeat: repeat-y;
+   background-size: cover;
+   flex-wrap: wrap;
+ 
+ 
+  }
+
+.sb-h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: overline;
+    color: white;
+
+}
+
+.texto {
+    display: flex;
+    padding-left: 80px;
+    padding-right: 80px;
+   
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.boton-blanco {
+    position: fixed;
+    display: inline-block;
+    padding: 15px 15px;
+    background-color: gray  ;
+    border: 2px solid #000;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+   
+  }
+  
+  .boton-blanco:hover {
+    background-color: #000;
+    color: #fff;
+  }
+
+  .uno {
+   
+    background-color: rgba(128, 128, 128, 0.5);
+    color: antiquewhite;
+    padding: 2rem;
+    margin-top: 5rem;
+    margin-bottom: 10rem;  
+        margin-right: 38rem;
+        margin-left: 2rem;
+
+  }
+  
+  
+  .dos {
+   
+    background-color: rgba(128, 128, 128, 0.5);
+    color: antiquewhite;
+    padding: 2rem;
+    margin-top: 5rem;
+    margin-bottom: 10rem; 
+    margin-left: 28rem;
+    margin-right: 2rem;
+
+  }
+
+  .tres {
+   
+    background-color: rgba(128, 128, 128, 0.5);
+    color: antiquewhite;
+    padding: 2rem;
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+    margin-right: 28rem; 
+    margin-left: 2rem;
+
+  }
+
+  .cuatro {
+   
+    background-color: rgba(128, 128, 128, 0.5);
+    color: antiquewhite;
+    padding: 2rem;
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+    margin-left: 18rem; 
+    margin-right: 2rem;
+
+  }
+
+  .cinco {
+   
+    background-color: rgba(128, 128, 128, 0.5);
+    color: antiquewhite;
+    padding: 2rem;
+    margin-top: 5rem;
+    margin-bottom: 10rem; 
+    margin-right: 18rem;
+    margin-left: 2rem;
+
+  }
+
+  .seis {
+   
+    background-color: rgba(128, 128, 128, 0.5);
+    color: antiquewhite;
+    padding: 2rem;
+    margin-top: 5rem;
+    margin-bottom: 10rem; 
+
+  }
+
+
+footer {
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+  
